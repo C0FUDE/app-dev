@@ -1,2 +1,4 @@
 # app-dev
-my first repository
+
+## John Wick
+This is a great movie, ==must watch for everyone==.🥇
